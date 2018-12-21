@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tuenti.messenger",
+    "sha256_cert_fingerprints":
+    ["DC:9E:C2:CF:8F:98:C9:2E:F6:3C:BC:3C:5F:58:D1:4D:FE:65:8E:C3:A8:D2:8D:5E:D4:AC:8E:2F:46:81:0F:1E"]
+  }
+}]
